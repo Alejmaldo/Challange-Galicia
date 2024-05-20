@@ -1,0 +1,88 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 1.1211693641406024,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 320,
+            "y": 149
+          },
+          "nodeIndex": "Delivery",
+          "nodeLineageTag": "4b6294d9-14b3-4d22-b84a-ff875e6325dd",
+          "size": {
+            "height": 296,
+            "width": 234
+          },
+          "zIndex": 1
+        },
+        {
+          "location": {
+            "x": 15,
+            "y": 0
+          },
+          "nodeIndex": "Stre",
+          "nodeLineageTag": "b7d2a445-bc8e-4ae4-ad51-210a4e5df7e2",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 2
+        },
+        {
+          "location": {
+            "x": 618,
+            "y": 0
+          },
+          "nodeIndex": "WHOUSE",
+          "nodeLineageTag": "4f904e8d-a4a1-40cd-9c60-7db64f35d3d6",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 3
+        },
+        {
+          "location": {
+            "x": 634,
+            "y": 351.5
+          },
+          "nodeIndex": "Date",
+          "nodeLineageTag": "6d20e089-23b1-4ef8-8721-3747a3fdbc4b",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 4
+        },
+        {
+          "location": {
+            "x": 1103.6893161811679,
+            "y": 0
+          },
+          "nodeIndex": "Medidas",
+          "nodeLineageTag": "86ca9805-9720-4b44-9284-d307fc7e2e5a",
+          "size": {
+            "height": 72,
+            "width": 234
+          },
+          "zIndex": 0,
+          "expandedHeight": 200
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 89.192590520569468,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "All tables",
+  "defaultDiagram": "All tables"
+}
